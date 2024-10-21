@@ -1,0 +1,6 @@
+@Pratik___Survivor_HostAddress = http://localhost:5037
+
+GET {{Pratik___Survivor_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
